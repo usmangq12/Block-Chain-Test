@@ -1,7 +1,7 @@
 ## Question 1 - Programming
 _We're looking at your programming ability. It must not only work, it should be maintainable._
 
-Let us assume you are a crypto investor. You have made transactions over a period of time which is logged in a CSV file at the data directory. Write a command line program that returns the latest portfolio value per token in USD
+Let us assume you are a crypto investor. You have made transactions over a period of time which is logged in a CSV file at the [data directory](https://raw.githubusercontent.com/Propine/2b-boilerplate/master/data/transactions.csv). Write a command line program that returns the latest portfolio value per token in USD
 
 The program should be ran like this
 
