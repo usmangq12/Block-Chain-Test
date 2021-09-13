@@ -27,4 +27,4 @@ Please take no more than 2 hours to finish. We do not track time, hence you can 
   - Source code that you used for deriving the results
   - README that explains various design decisions that you took.
 
-Commit your answers in a private Github repository(it's free), please do not fork as other candidates will see your answers. Add Zan(liangzan) as a collaborator. Inform us that it is done via email.
+Commit your answers in a private Github repository(it's free), please do not fork as other candidates will see your answers. Add Kyle(kyled7) as a collaborator. Inform us that it is done via email.
